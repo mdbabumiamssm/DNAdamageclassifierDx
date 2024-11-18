@@ -19,3 +19,5 @@ scikit-image: Leveraging this library, the project implements advanced image pro
 Matplotlib and Plotly: For visualization purposes, these libraries enable the plotting of processed images and the graphical representation of analysis results, facilitating the interpretation of data and the verification of algorithm performance.
 
 By intertwining these mathematical and programming elements, the "DNAdamageclassifierDx" project achieves a robust framework for the automated classification of comet assay images. This tool not only enhances the efficiency and objectivity of DNA damage analysis but also provides a scalable solution adaptable to various research settings and objectives. The development of this algorithm showcases the potential of combining theoretical mathematical principles with practical programming skills to address complex biological phenomena.
+
+Note: This software package is yet to be published (unpublished)! If you have used it for publication purpose, please share authorship with MD. BABU MIA, PHD; ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI. Contact for detials: md.babu.mia@mssm.edu
