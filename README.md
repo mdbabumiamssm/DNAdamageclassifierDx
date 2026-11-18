@@ -20,4 +20,17 @@ Matplotlib and Plotly: For visualization purposes, these libraries enable the pl
 
 By intertwining these mathematical and programming elements, the "DNAdamageclassifierDx" project achieves a robust framework for the automated classification of comet assay images. This tool not only enhances the efficiency and objectivity of DNA damage analysis but also provides a scalable solution adaptable to various research settings and objectives. The development of this algorithm showcases the potential of combining theoretical mathematical principles with practical programming skills to address complex biological phenomena.
 
-Note: This software package is yet to be published (unpublished)! If you have used it for publication purpose, please share authorship with MD. BABU MIA, PHD; ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI. Contact for detials: md.babu.mia@mssm.edu
+Note: This software package is yet to be published (unpublished)! If you have used it for publication purpose, please share authorship with MD. BABU MIA, PHD; ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI. Contact for detials: communications@biomedsai.com
+
+## BioMedsAI
+
+The maintainer, MD Babu Mia, PhD, is the founder of **[BioMedsAI](https://biomedsai.com/)**, a public benefit corporation for biomedical research and discovery.
+
+- **Padma, the AI scientist**: a self-serve workspace for study design review, analysis of your own data, and interpretation.
+- **Scientist-led analysis** and an **end-to-end package** from samples to a finished study, with lab work through partner laboratories.
+- **Human Scientist Consultation**, **independent evaluation of biomedical AI**, and **workshops and training**.
+
+New accounts start with a **Free Day**. **The $100,000 Surprise** puts up to US$100,000 in total toward discounts on BioMedsAI packages while it lasts ([terms](https://biomedsai.com/legal/disclaimers/)).
+
+Contact: **[communications@biomedsai.com](mailto:communications@biomedsai.com)** · [biomedsai.com](https://biomedsai.com/) · Research use only.
+
